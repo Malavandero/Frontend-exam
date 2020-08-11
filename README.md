@@ -3,11 +3,9 @@
 ## Instrucciones
 
 1. Descarga el código fuente del examen desde este repositorio público https://github.com/Malavandero/Frontend-exam.git
-2. Crea una nueva branch con tu nombre ej. MiguelLM
-3. Desarrolla la solución en tu entorno local.
-4. Haz tantos commits cómo quieras, **pero solo revisaremos el código del commit con nombre "Commit Final"**
-5. Publica tus rama en Origin, dejando `master` intacto.
-6. Puedes utilizar el código HTML proporcionado en `/static` y modificarlo como prefieras, **pero los cambios estéticos no se valorarán** aunque si tendremos en cuenta aquellos que mejoren la estructura del código, el SEO o cualquier otro aspecto técnico.
+2. Desarrolla la solución en tu entorno local.
+3. Publica tu código en algún sistema de gestión de versiones y haznos llegar la url. (También podemos descargarnos el código o recibirlo por correo)
+4. Puedes utilizar el código HTML proporcionado en `/static` y modificarlo como prefieras, **pero los cambios estéticos no se valorarán** aunque si tendremos en cuenta aquellos que mejoren la estructura del código, el SEO o cualquier otro aspecto técnico.
 
 ## ¿En qué consiste?
 Para la resolución de éste test técnico de Front End, desarrollaremos una aplicación que nos permita, consultar el catálogo de BrewDog, la información de cada cerveza y marcar si la hemos probado.
